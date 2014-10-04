@@ -1,0 +1,14 @@
+E:\临时文件\短学期软件设计基础\屏幕录像机\GlobalMouseHook\bin\Release\GlobalMouseHook.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\GlobalMouseHook\bin\Release\GlobalMouseHook.pdb
+E:\临时文件\短学期软件设计基础\屏幕录像机\GlobalMouseHook\obj\Release\GlobalMouseHook.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\GlobalMouseHook\obj\Release\GlobalMouseHook.pdb
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\GlobalMouseHook\bin\Release\GlobalMouseHook.dll
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\GlobalMouseHook\bin\Release\GlobalMouseHook.pdb
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\GlobalMouseHook\obj\Release\GlobalMouseHook.csprojResolveAssemblyReference.cache
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\GlobalMouseHook\obj\Release\GlobalMouseHook.dll
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\GlobalMouseHook\obj\Release\GlobalMouseHook.pdb
+D:\LearnCoding\Mine\C#\ScreenRecorder\bin\GlobalMouseHook.dll
+D:\LearnCoding\Mine\C#\ScreenRecorder\bin\GlobalMouseHook.pdb
+D:\LearnCoding\Mine\C#\ScreenRecorder\GlobalMouseHook\obj\Release\GlobalMouseHook.csprojResolveAssemblyReference.cache
+D:\LearnCoding\Mine\C#\ScreenRecorder\GlobalMouseHook\obj\Release\GlobalMouseHook.dll
+D:\LearnCoding\Mine\C#\ScreenRecorder\GlobalMouseHook\obj\Release\GlobalMouseHook.pdb

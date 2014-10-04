@@ -1,0 +1,17 @@
+E:\临时文件\短学期软件设计基础\屏幕录像机\bin\Emgu.Util.xml
+E:\临时文件\短学期软件设计基础\屏幕录像机\bin\Emgu.Util.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\bin\Emgu.Util.pdb
+E:\临时文件\短学期软件设计基础\屏幕录像机\Emgu.Util\obj\Release\Emgu.Util.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\Emgu.Util\obj\Release\Emgu.Util.pdb
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\bin\Emgu.Util.xml
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\bin\Emgu.Util.dll
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\bin\Emgu.Util.pdb
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\Emgu.Util\obj\Release\Emgu.Util.csprojResolveAssemblyReference.cache
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\Emgu.Util\obj\Release\Emgu.Util.dll
+D:\码农学习资料\软件设计作品\C#\多线程屏幕录像机\Emgu.Util\obj\Release\Emgu.Util.pdb
+D:\LearnCoding\Mine\C#\ScreenRecorder\bin\Emgu.Util.xml
+D:\LearnCoding\Mine\C#\ScreenRecorder\bin\Emgu.Util.dll
+D:\LearnCoding\Mine\C#\ScreenRecorder\bin\Emgu.Util.pdb
+D:\LearnCoding\Mine\C#\ScreenRecorder\Emgu.Util\obj\Release\Emgu.Util.csprojResolveAssemblyReference.cache
+D:\LearnCoding\Mine\C#\ScreenRecorder\Emgu.Util\obj\Release\Emgu.Util.dll
+D:\LearnCoding\Mine\C#\ScreenRecorder\Emgu.Util\obj\Release\Emgu.Util.pdb

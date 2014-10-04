@@ -1,0 +1,15 @@
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\屏幕录像机.exe.config
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\屏幕录像机.exe
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\屏幕录像机.pdb
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.csprojResolveAssemblyReference.cache
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.FrmMain.resources
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.Properties.Resources.resources
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.csproj.GenerateResource.Cache
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.exe
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\obj\Debug\屏幕录像机.pdb
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\ScreenRecorder.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\Emgu.CV.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\Emgu.Util.dll
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\ScreenRecorder.pdb
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\Emgu.CV.xml
+E:\临时文件\短学期软件设计基础\屏幕录像机\屏幕录像机\bin\Debug\Emgu.Util.xml

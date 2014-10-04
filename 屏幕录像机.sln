@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "屏幕录像机", "屏幕录像机\屏幕录像机.csproj", "{2667589C-22B4-49B1-8D67-FEE37CE3C2CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenRecorder", "ScreenRecorder\ScreenRecorder.csproj", "{68A84FB8-8491-4E73-A2E6-6403AE54930C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalMouseHook", "GlobalMouseHook\GlobalMouseHook.csproj", "{1D5677A3-2DCC-4614-B11F-83AFB49C4720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emgu.CV", "Emgu.CV\Emgu.CV.csproj", "{9A1A77FE-F01B-495E-87B7-4B16E4F8C908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emgu.Util", "Emgu.Util\Emgu.Util.csproj", "{7C2C5325-8235-4A24-9C67-6BD79A4679E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2667589C-22B4-49B1-8D67-FEE37CE3C2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2667589C-22B4-49B1-8D67-FEE37CE3C2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2667589C-22B4-49B1-8D67-FEE37CE3C2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2667589C-22B4-49B1-8D67-FEE37CE3C2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A84FB8-8491-4E73-A2E6-6403AE54930C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A84FB8-8491-4E73-A2E6-6403AE54930C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A84FB8-8491-4E73-A2E6-6403AE54930C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A84FB8-8491-4E73-A2E6-6403AE54930C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5677A3-2DCC-4614-B11F-83AFB49C4720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5677A3-2DCC-4614-B11F-83AFB49C4720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5677A3-2DCC-4614-B11F-83AFB49C4720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5677A3-2DCC-4614-B11F-83AFB49C4720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1A77FE-F01B-495E-87B7-4B16E4F8C908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1A77FE-F01B-495E-87B7-4B16E4F8C908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1A77FE-F01B-495E-87B7-4B16E4F8C908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1A77FE-F01B-495E-87B7-4B16E4F8C908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2C5325-8235-4A24-9C67-6BD79A4679E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2C5325-8235-4A24-9C67-6BD79A4679E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2C5325-8235-4A24-9C67-6BD79A4679E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2C5325-8235-4A24-9C67-6BD79A4679E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
